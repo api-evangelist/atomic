@@ -1,0 +1,13 @@
+generated: '2026-07-18'
+method: searched
+source: https://www.atomicvest.com/
+status_page: https://status.atomicvest.com/
+notes: >-
+  Atomic's developer documentation and API reference are hosted at
+  docs.atomicvest.com but are login-gated (redirect to the partner dashboard at
+  dashboard.atomicvest.com), so versioning, deprecation policy, and SLA details
+  are not publicly observable. Only the public status page is captured here.
+versioning: null
+deprecation: null
+sla: null
+deprecated_operations: []

@@ -1,8 +1,16 @@
 aid: atomic
 name: Atomic
-description: Atomic is a company surfaced as a portfolio company of anthemis, qed-investors and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Atomic (Atomic Invest) is an investing-as-a-service platform that lets fintechs,
+  banks, and financial institutions embed professionally managed investing, cash
+  management, and brokerage products into their own apps through developer-first
+  APIs. Its turnkey and API-driven offerings span wealth management (custom and
+  direct indexing, bond laddering, tax-loss harvesting, and ESG investing), cash
+  management (high-yield and money market accounts), and modern brokerage
+  (fractional stocks, bonds, ETFs, and alternative assets across global markets),
+  while Atomic carries the underlying brokerage operations, regulatory, and
+  compliance burden so partners can launch in weeks. Backed by Anthemis and QED
+  Investors.
 url: https://raw.githubusercontent.com/api-evangelist/atomic/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,11 +19,30 @@ x-backed-by:
 - qed-investors
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://framerusercontent.com/assets/wS447IvX33dAWzuU4uQsHthOEHE.png
 tags:
 - Company
+- Investing
+- Wealth Management
+- Brokerage
+- Embedded Finance
+- Fintech
+- Cash Management
+- Investing API
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +52,30 @@ maintainers:
 common:
 - type: Website
   url: https://www.atomicvest.com/
+- type: Documentation
+  url: https://docs.atomicvest.com/
+- type: DeveloperPortal
+  url: https://dashboard.atomicvest.com/
+- type: Login
+  url: https://dashboard.atomicvest.com/
+- type: Support
+  url: https://support.atomicvest.com/
+- type: Blog
+  url: https://www.atomicvest.com/blog
+- type: StatusPage
+  url: https://status.atomicvest.com/
+- type: Lifecycle
+  url: lifecycle/atomic-lifecycle.yml
+- type: GitHubOrganization
+  url: https://github.com/atomicvest
+- type: TermsOfService
+  url: https://legal.atomicvest.com/usa.terms.53702dec-0842-4fc2-ab17-530b99fc1c8e.pdf
+- type: PrivacyPolicy
+  url: https://legal.atomicvest.com/usa.privacy.de3d0277-78f7-4741-9e9f-755f6b4f03ba.pdf
+- type: DomainSecurity
+  url: security/atomic-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
