@@ -64,6 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Atomic is a company surfaced as a portfolio company of anthemis, qed-investors and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Atomic (Atomic Invest) is an investing-as-a-service platform that lets fintechs, banks, and financial institutions embed professionally managed investing, cash management, and brokerage products into their own apps through developer-first APIs. Its turnkey and API-driven offerings span wealth management (custom and direct indexing, bond laddering, tax-loss harvesting, and ESG investing), cash management (high-yield and money market accounts), and modern brokerage (fractional stocks, bonds, ETFs, and alternative assets across global markets), while Atomic carries the underlying brokerage operations, regulatory, and compliance burden so partners can launch in weeks. Backed by Anthemis and QED Investors.
 
-Backed by: anthemis, qed-investors — https://www.atomicvest.com/
+**Areas:** Company · Investing · Wealth Management · Brokerage · Embedded Finance · Fintech · Cash Management · Investing API
+
+## Atomic on APIs.io
+
+Everything profiled for Atomic is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/atomic/](https://apis.io/providers/atomic/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Atomic Domain Security](https://apis.io/security/atomic/atomic-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.atomicvest.com/)
+- [Documentation](https://docs.atomicvest.com/)
+- [Support](https://support.atomicvest.com/)
+- [Blog](https://www.atomicvest.com/blog)
+- [Terms of service](https://legal.atomicvest.com/usa.terms.53702dec-0842-4fc2-ab17-530b99fc1c8e.pdf)
+- [Privacy policy](https://legal.atomicvest.com/usa.privacy.de3d0277-78f7-4741-9e9f-755f6b4f03ba.pdf)
+- [GitHub](https://github.com/atomicvest)
+- [Status](https://status.atomicvest.com/)
+
+## API Evangelist rating
+
+**Kin Score 11.7** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 18.4 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.0** — Securities & Market Data
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/atomic/](https://apis.io/providers/atomic/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Atomic: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/atomic/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
